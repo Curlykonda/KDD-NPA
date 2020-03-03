@@ -10,3 +10,7 @@ Resources for the paper "NPA: Neural News Recommendation with Personalized Atten
   organization={ACM} 
 } 
 ```
+
+Start adding comments to the original implementation to improve readability [Feb. 2020] 
+
+Aim to benchmark on public and industrial news data [March 2020]
